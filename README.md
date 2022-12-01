@@ -1,0 +1,2 @@
+# README
+This repository contains an initial readme file with the phrase "hello world", a twine file with multimedia, variables, conditionals, and modified text strings.
